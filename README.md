@@ -1,11 +1,11 @@
 Muutamia projekteja/kursseja vuodelta 2024-2025:
 - peliohjelmointia (Unity, C#, yms.)
-- demosovellus
-- nettisivut
+- demosovellus (HTML, CSS, JavaScript, json)
+- nettisivut (HTML, CSS, JavaScript)
 - Tiedonhallinta ja SQL harjoitustyö
 - Prosessilouhinta, ohjelmistorobotti ja tekoäly -kurssi: 
 UiPath Task Mining, Aris Process Mining, Microsoft työkaluja kuten Microsoft Power Automate
-Huom. Tiedosto on .doc eli Word-tiedosto
+Huom. PDF-tiedostossa vähän enemmän näistä kaikista
 
 Pinkki pantteri peli (harjoitus 2D peli, C#)
 <img width="1004" height="530" alt="image" src="https://github.com/user-attachments/assets/265dd137-dcf5-495d-914f-5a80ea86afd8" />
