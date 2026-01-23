@@ -12,7 +12,7 @@ Pinkki pantteri peli (harjoitus 2D peli, C#)
 <img width="1004" height="546" alt="image" src="https://github.com/user-attachments/assets/cff1d297-da89-4dbf-b288-20f7b0a3655b" />
 <img width="1004" height="555" alt="image" src="https://github.com/user-attachments/assets/ef57d4b2-faab-4038-a318-d6f3b3a8591d" />
 
-Demosovellus - Ohjelmistotuotanto 2 kurssi (HTML, CSS, JavaScript, json):
+Demosovellus - Ohjelmistotuotanto 2 kurssi (HTML, CSS, JavaScript, json): https://linkkikotiin.azurewebsites.net/etusivu/getStarted.html
 <img width="1004" height="342" alt="image" src="https://github.com/user-attachments/assets/fb64febc-25dc-43a1-8efe-56b335236a6f" />
 <img width="1004" height="748" alt="image" src="https://github.com/user-attachments/assets/985a4aaf-7fa3-420d-bdb8-cd08526d5ca1" />
 <img width="1004" height="708" alt="image" src="https://github.com/user-attachments/assets/08dfa04a-c767-45b8-9d21-dd537b823a4f" />
