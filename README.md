@@ -19,7 +19,7 @@ Demosovellus - Ohjelmistotuotanto 2 kurssi (HTML, CSS, JavaScript, json): https:
 <img width="1004" height="530" alt="image" src="https://github.com/user-attachments/assets/1a0a2c7c-fa08-41f7-aa94-aee6e454d3b0" />
 
 Herkkuruoka nettisivut (HTML, CSS, JavaScript):
-Linkki Figmaan: https://www.figma.com/design/v0eEc3XMLUgTVgwYohRVYT/Herkkuruoka?node-id=0-1&t=BroxuTBef6X7N8FY-1
+Linkki Figmaan: https://www.figma.com/design/z624aOgyt8eaBQ4cWmMamJ/Herkkuruoka?node-id=0-1&t=aO9otDW1NFSS4b7T-1
 <img width="986" height="1102" alt="image" src="https://github.com/user-attachments/assets/3dadf7e5-1d76-461a-8231-1ebeb48ecd3f" />
 
 Tiedonhallinta ja SQL harjoitustyö (lisää PDF-tiedostossa):
